@@ -5,7 +5,9 @@ You are given a binary tree in which each node contains an integer value (which 
 
 EXAMPLE Input:
 Tree =
+
 ![image](https://user-images.githubusercontent.com/87650614/151612052-f7a38720-fa61-4e3f-b327-976babd6176c.png)
+
 Value = 9
 Output: 2 path
 
